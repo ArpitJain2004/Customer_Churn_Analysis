@@ -27,7 +27,7 @@ The analysis explores customer churn patterns, focusing on various factors such 
 ○	Contract Types: 42% churn for month-to-month contracts, 11% for yearly contracts, 3% for two-year contracts.
 	○	Tenure: 50% churn in the first year, dropping to 15% after three years.
 ## Recommendations:
-●	Promote Long-Term Contracts: Offer incentives for customers to commit to longer contracts to reduce churn.
-●	Address Payment Method Concerns: Implement campaigns encouraging customers to switch from electronic checks to more reliable payment methods.
-●	Customer Engagement in Early Tenure: Focus on improving the customer experience within the first year, as churn is highest in this period.
-●	Special Senior Citizen Retention Programs: Create personalized offers or assistance programs to retain the senior demographic.
+####	Promote Long-Term Contracts: Offer incentives for customers to commit to longer contracts to reduce churn.
+####	Address Payment Method Concerns: Implement campaigns encouraging customers to switch from electronic checks to more reliable payment methods.
+####	Customer Engagement in Early Tenure: Focus on improving the customer experience within the first year, as churn is highest in this period.
+####	Special Senior Citizen Retention Programs: Create personalized offers or assistance programs to retain the senior demographic.
